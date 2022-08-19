@@ -6,16 +6,19 @@ Como aplicar fontes e cores personalizadas, como posicionar e espaçar os elemen
 
 E também teve como utilizar a ferramenta Figma.
 
-<h2>Projetos</h2>
-<div align="center">
+## Projetos
 
-  <p>Clique e veja o resultado </p>
+<p align="center"> Clique e veja o resultado
+  <br>
   <a href=""> Projeto 01 </a> -
   <a href=""> Projeto 02 </a> -
   <a href=""> Projeto 03 </a>
+</p>
 
+<br>
+<h3 align="center">
   <img width="700px" src="https://i.imgur.com/auc8WIs.gif" alt="Projetos do stage 02 do programa explorer da rocketseat." />
-</div>
+</h3>
 
 <h2>Contatos</h2>
 
