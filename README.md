@@ -34,7 +34,7 @@ Segue a relação dos módulos e neles os projetos:
 
   **Em breve:** ReactJS, API Restful, deploy e testes automatizados.
 
-## 🔗 Contatos
+## 📫 Contatos
 
 <div>
   <br>
