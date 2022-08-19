@@ -7,7 +7,7 @@
 
 <p align="center"> Clique <a href="">aqui </a>e veja o resultado</p>
 <h3 align="center">
-  <img width="1024px" src="https://i.imgur.com/sd7Gvl1.jpg">
+  <img src="https://i.imgur.com/sd7Gvl1.jpg">
 </h3>
 
 ## Aprendizados
