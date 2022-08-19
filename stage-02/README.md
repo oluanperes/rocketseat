@@ -15,11 +15,11 @@ E também teve como utilizar a ferramenta Figma.
   <a href=""> Projeto 03 </a>
 </p>
 
-<br>
 <h3 align="center">
   <img width="700px" src="https://i.imgur.com/auc8WIs.gif" alt="Projetos do stage 02 do programa explorer da rocketseat." />
 </h3>
 
+<br>
 <h2>Contatos</h2>
 
 <div>
