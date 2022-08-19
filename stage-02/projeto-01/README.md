@@ -6,9 +6,9 @@
 ## Projeto
 
 <p align="center"> Clique <a href="">aqui </a>e veja o resultado</p>
-<h1 align="center">
+<h3 align="center">
   <img width="1024px" src="https://i.imgur.com/sd7Gvl1.jpg">
-</h1>
+</h3>
 
 ## Aprendizados
 
