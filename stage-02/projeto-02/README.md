@@ -20,18 +20,16 @@
 - ☑️ Aplicar background em botões e posicionamento;
 - ☑️ Entender a função linear-gradient();
 
-## Contatos
-
 <div>
+  <h2>Contatos</h2>
   <br>
   <a href="https://www.linkedin.com/in/oluanperes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
-  <a href = "mailto:oluanperes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href= "mailto:oluanperes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 </div>
 
 ##
-
 Feito com 💜 por [Luan Peres](https://github.com/oluanperes) 👋
