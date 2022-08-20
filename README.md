@@ -34,10 +34,8 @@ Segue a relação dos módulos e neles os projetos:
 
   **Em breve:** ReactJS, API Restful, deploy e testes automatizados.
 
-## 📫 Contatos
-
 <div>
-  <h2>Contatos</h2>
+  <h2>📫 Contatos</h2>
   <br>
   <a href="https://www.linkedin.com/in/oluanperes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
