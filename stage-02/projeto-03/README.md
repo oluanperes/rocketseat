@@ -1,6 +1,6 @@
 ## Desafio
-- Construir um site estático a partir do projeto feito no Figma.
-- Utilizando todo o conhecimento obtido no projeto-01 e projeto-02
+- ☑️ Construir um site estático a partir do projeto feito no Figma.
+- ☑️ Utilizar todo o conhecimento obtido no projeto-01 e projeto-02
 
 ## Projeto
 

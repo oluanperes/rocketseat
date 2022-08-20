@@ -1,9 +1,8 @@
-<div>
-  <h2>Sobre</h2>
-  <p>Neste módulo teve conceitos de HTML e CSS, e como estruturar de forma semântica.</p>
-  <p>Como aplicar fontes e cores personalizadas, como posicionar e espaçar os elementos utilizando os conceitos de Box Model e Flexbox do CSS.</p>
-  <p>E também teve como utilizar a ferramenta Figma.</p>
-</div>
+
+## Sobre
+  Neste módulo teve conceitos de HTML e CSS, e como estruturar de forma semântica.<br>
+  Como aplicar fontes e cores personalizadas, como posicionar e espaçar os elementos utilizando os conceitos de Box Model e Flexbox do CSS.<br>
+  Como utilizar a ferramenta Figma.
 
 <div>
   <h2> Projetos</h2>
