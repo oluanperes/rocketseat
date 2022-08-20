@@ -32,4 +32,4 @@ E também teve como utilizar a ferramenta Figma.
 
 ##
 
-Feito com 💜 por [Luan Peres](https://github.com/oluanperes) 👋
+Feito com 💜 por [Luan Peres](https://github.com/oluanperes){:target="\_blank"} 👋
