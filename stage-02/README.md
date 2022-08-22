@@ -1,6 +1,7 @@
 
 ## Sobre
-  Neste módulo teve conceitos de HTML e CSS: <br>
+  Neste módulo teve:
+   - Conceitos de HTML e CSS: <br>
    - Como estruturar de forma semântica.<br>
    - Como posicionar e espaçar os elementos utilizando os conceitos de Box Model e Flexbox do CSS.<br>
    - Como aplicar fontes e cores personalizadas.<br>
@@ -18,7 +19,6 @@
     <img width="700px" src="https://i.imgur.com/auc8WIs.gif" alt="Projetos do stage 02 do programa explorer da rocketseat." />
   </h3>
 </div>
-
 <div>
   <h2>Contatos</h2>
   <br>

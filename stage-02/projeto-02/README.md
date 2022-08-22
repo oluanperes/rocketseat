@@ -1,5 +1,6 @@
 ## Sobre
-- ☑️ Construção um site estático a partir do projeto feito no Figma.
+Neste projeto teve:
+- Construção um site estático a partir do projeto feito no figma.
 
 ## Projeto
 
