@@ -1,5 +1,5 @@
 ## Sobre
-- ☑️ Construir um formulário.
+- ☑️ Construção de um formulário.
 
 ## Projeto
 
