@@ -1,9 +1,7 @@
 ## Sobre
   Neste projeto teve:
-  - ☑️ Como trabalhar com display: grid.
-  - ☑️ Transições
-  - ☑️ Animações 
-  - ☑️ E responsividade.
+  - Como trabalhar com display: grid.
+  - Como trabalhar com transições, animações e responsividade.
 
 ## Projeto
 

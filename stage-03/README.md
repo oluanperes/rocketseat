@@ -1,7 +1,9 @@
 ## Sobre
-  Neste módulo teve formulários no HTML e vários tipos de inputs.<br>
-   - Responsividade, para que o projeto se adapte a vários tipos de dispositivos.<br>
-   - Grid no CSS e transições a animações.
+  Neste módulo teve:
+  - Formulários no HTML e vários tipos de inputs.<br>
+  - Responsividade.<br>
+  - Grid no CSS.<br>
+  - Transições a animações.
 
 <div>
   <h2> Projetos</h2>

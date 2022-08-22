@@ -1,6 +1,6 @@
 ## Sobre
 Neste projeto teve:
-- ☑️ Como construir um formulário.
+- Como construir um formulário.
 
 ## Projeto
 

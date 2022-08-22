@@ -1,6 +1,6 @@
 ## Sobre
 Neste projeto teve:
-- ☑️ Como construir um site responsivo.
+- Como construir um site responsivo.
 
 ## Projeto
 
