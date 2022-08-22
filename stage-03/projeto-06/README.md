@@ -7,9 +7,9 @@
 
 ## Projeto
 
-<p align="center"> Clique <a href="https://oluanperes.github.io/explorer-rocketseat/stage-03/projeto-05/index.html" target="_blank">aqui </a>e veja o resultado</p>
+<p align="center"> Clique <a href="https://oluanperes.github.io/explorer-rocketseat/stage-03/projeto-06/index.html" target="_blank">aqui </a>e veja o resultado</p>
 <h3 align="center">
-  <img width="700px" src="https://i.imgur.com/d8f3uAG.gif">
+  <img width="700px" src="">
 </h3>
 
 ## Aprendizados

@@ -1,5 +1,6 @@
 ## Sobre
-- ☑️ Construção de um site responsivo aplicando a regra mobile-first.
+Neste projeto teve:
+- ☑️ Como construir um site responsivo.
 
 ## Projeto
 

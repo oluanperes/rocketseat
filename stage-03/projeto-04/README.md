@@ -1,5 +1,6 @@
 ## Sobre
-- ☑️ Construção de um formulário.
+Neste projeto teve:
+- ☑️ Como construir um formulário.
 
 ## Projeto
 
