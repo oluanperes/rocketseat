@@ -12,7 +12,7 @@
     <a href="https://oluanperes.github.io/explorer-rocketseat/stage-03/desafios/spacecream-responsivo/index.html" target="_blank"> Space cream responsivo</a>
   </p>
   <h3 align="center">
-    <img width="700px" src="" alt="" />
+    <img width="700px" src="https://i.imgur.com/dPKkJn0.gif" alt="" />
   </h3>
 </div>
 

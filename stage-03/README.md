@@ -3,7 +3,8 @@
   - Formulários no HTML e vários tipos de inputs.<br>
   - Responsividade.<br>
   - Grid no CSS.<br>
-  - Transições a animações.
+  - Transições e animações.
+  -  E teve [desafios](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-03/desafios) também.
 
 <div>
   <h2> Projetos</h2>
