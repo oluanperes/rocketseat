@@ -18,7 +18,6 @@
     <img width="700px" src="https://i.imgur.com/95pLYvS.gif" alt="Projetos do stage 03 do programa explorer da rocketseat." />
   </h3>
 </div>
-
 <div>
   <h2>Contatos</h2>
   <br>
