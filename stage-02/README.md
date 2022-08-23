@@ -6,7 +6,6 @@
    - Como posicionar e espaçar os elementos utilizando os conceitos de Box Model e Flexbox do CSS.<br>
    - Como aplicar fontes e cores personalizadas.<br>
    - E como utilizar a ferramenta Figma.
-
 <div>
   <h2> Projetos</h2>
   <p align="center"> Clique e veja o resultado
