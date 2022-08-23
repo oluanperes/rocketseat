@@ -1,3 +1,0 @@
-## 📌 Sobre
-
-Em consgtrução...
