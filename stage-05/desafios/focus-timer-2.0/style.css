@@ -118,9 +118,9 @@ button {
 }
 
 .alert-error.open {
-visibility: visible;
-opacity: 1;
-transform: translateY(0);
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .alert-error {
@@ -140,7 +140,6 @@ transform: translateY(0);
   opacity: 0;
   transform: translateY(-30px);
   transition: transform .5s;
-
 }
 
 @media (min-width: 768px) {
