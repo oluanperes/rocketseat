@@ -24,7 +24,7 @@
     <a href="https://oluanperes.github.io/explorer-rocketseat/stage-05/focustimer/index.html" target="_blank"> Focustimer </a>
   </p>
   <h3 align="center">
-    <img width="800px" src="https://i.imgur.com/fth2uaj.gif" alt="" />
+    <img width="700px" src="https://i.imgur.com/fth2uaj.gif" alt="" />
   </h3>
 </div>
 <div>
