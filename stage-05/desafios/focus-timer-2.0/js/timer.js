@@ -55,7 +55,6 @@ export default function Timer({
 
     if (minutes <= 5) {
       AlertError.open()
-      return;
     } else {
       minutes = minutes - 5
     }

@@ -17,19 +17,17 @@ const timer = Timer({
 
 const sound = Sounds()
 
-
 Events({control, timer, sound})
 
-
 window.addEventListener('keydown', handleKeydown)
-window.addEventListener('mousemove', handleMousemove)
+window.addEventListener('mouseup', handleMouseup)
 function handleKeydown(event) {
   if (event.key) {
     AlertError.close()
   }
 }
 
-function handleMousemove(event) {
+function handleMouseup(event) {
   if (event) {
     AlertError.close()
   }
