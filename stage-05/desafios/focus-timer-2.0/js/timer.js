@@ -1,5 +1,6 @@
 import Controls from "./controls.js"
 import Sounds from "./sounds.js"
+import { AlertError } from "./alert-error.js"
 
 export default function Timer({
   minutesDisplay,
@@ -53,7 +54,8 @@ export default function Timer({
     let seconds = Number(secondsDisplay.textContent)
 
     if (minutes <= 5) {
-      alert("Só é possível decrementar acima de 5 minutos.")
+      AlertError.open()
+      return;
     } else {
       minutes = minutes - 5
     }
