@@ -1,5 +1,11 @@
 ## Desafio
-  - A ideia é criar o FocusTimer 2.0!
+  A ideia é criar o FocusTimer 2.0:
+  - Cada card quando selecionado, vai mudar de cor e emitir um som diferente.
+  - Funcionalidades esperadas dos botões:
+    - Play: aciona o timer;
+    - Stop: para o timer;
+    - +: aumenta em mais 5 minutos o tempo do timer;
+    - -: diminui em 5 minutos o tempo do timer.
 
 <div>
   <h2> Projeto</h2>
