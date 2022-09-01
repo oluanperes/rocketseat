@@ -17,6 +17,11 @@ const rainVolume = document.querySelector('.vol-rain')
 const coffeeShopVolume = document.querySelector('.vol-coffeeShop')
 const firePlaceVolume = document.querySelector('.vol-firePlace')
 
+// variaveis theme
+const btnLightMode = document.querySelector('.light')
+const btnDarkMode = document.querySelector('.dark')
+const body = document.querySelector('body')
+
 export {
   buttonPlay,
   buttonStop,
@@ -31,5 +36,8 @@ export {
   forestVolume,
   rainVolume,
   coffeeShopVolume,
-  firePlaceVolume
+  firePlaceVolume,
+  btnDarkMode,
+  btnLightMode,
+  body
 }

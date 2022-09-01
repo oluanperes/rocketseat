@@ -10,7 +10,10 @@ import {
   forestVolume,
   rainVolume,
   coffeeShopVolume,
-  firePlaceVolume
+  firePlaceVolume,
+  btnDarkMode,
+  btnLightMode,
+  body
 } from "./elements.js"
 
 export default function Events({control, timer, sound}) {
@@ -71,6 +74,18 @@ export default function Events({control, timer, sound}) {
 
   firePlaceVolume.addEventListener('input', function() {
     sound.fireplaceAudio.volume = firePlaceVolume.value / 1
+  })
+
+  btnLightMode.addEventListener('click', function() {
+    btnDarkMode.classList.remove('off')
+    btnLightMode.classList.add('off')
+    body.classList.add('dark-mode')
+  })
+
+  btnDarkMode.addEventListener('click', function() {
+    btnDarkMode.classList.add('off')
+    btnLightMode.classList.remove('off')
+    body.classList.remove('dark-mode')
   })
 
   return {
