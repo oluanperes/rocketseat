@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --fc-nav: #C4C4CC;
+  --fv-nav-hover: #fff;
+  --fc-text: #E1E1E6;
+
+  --fc-primary-btn: #fff;
+  --fc-secundary-btn: #02799D;
+}
+
+body, button {
+  font-family: 'Roboto', sans-serif;;
+}
+
+.background-pages {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  z-index: -1;
+}
+
+#home-page {
+  text-align: center;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  margin: 4rem 7.2rem;
+}
+
+#logo {
+  margin-right: 3.2rem;
+}
+
+header nav {
+  display: flex;
+  gap: 3.2rem;
+  font-size: 2.1rem;
+}
+
+header nav a {
+  text-decoration: none;
+  color: var(--fc-nav);
+}
+
+header nav a:hover {
+  color: var(--fv-nav-hover);
+}
+
+#home-page, .text-container {
+  color: var(--fc-text);
+}
+
+.text-container {
+  width: 64.8rem;
+  padding: 10.3rem 0 0 10.2rem;
+}
+
+.text-title {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 125%;
+  padding-bottom: 1.6rem;
+}
+
+#home-page .text-title {
+  margin: 21.2rem 0 2.4rem;
+}
+
+main p {
+  text-align: justify;
+  font-size: 1.8rem;
+  line-height: 160%;
+  font-weight: normal;
+}
+
+#home-page #btn-more {
+  background: transparent;
+  color: var(--fc-primary-btn);
+  text-transform: uppercase;
+  font-weight: 700;
+
+  border: 2px solid var(--fc-primary-btn);
+  border-radius: 5px;
+  padding: 1.2rem 3.2rem;
+
+  cursor: pointer;
+}
+
+#home-page #btn-more:hover {
+  color: var(--fc-secundary-btn);
+  background: var(--fc-primary-btn);
+}
