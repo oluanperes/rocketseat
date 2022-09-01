@@ -42,7 +42,6 @@ body, .container-cards, #page {
   display: grid;
 }
 
-
 #page {
   justify-self: center;
   align-items: center;
@@ -129,6 +128,11 @@ button {
 
   background-color: var(--bg-card-light-mode);
   border-radius: 2.4rem;
+
+}
+
+.card-box {
+  position: relative;
 }
 
 .card.select {
@@ -145,6 +149,9 @@ button {
   width: 9rem;
   height: .4rem;
   border-radius: .5rem;
+  position: absolute;
+  bottom: 2.5rem;
+  left: 2.5rem;
 }
 
 .volume.select {
@@ -153,6 +160,9 @@ button {
   width: 9rem;
   height: .4rem;
   border-radius: .5rem;
+  position: absolute;
+  bottom: 2.5rem;
+  left: 2.5rem;
 }
 
 .theme {
