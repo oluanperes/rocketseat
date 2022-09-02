@@ -19,7 +19,7 @@
     <a href="https://oluanperes.github.io/explorer-rocketseat/stage-05/desafios/focus-timer-3.0/index.html" target="_blank"> FocusTimer 3.0 </a>
   </p>
   <h3 align="center">
-    <img width="700px" src="https://i.imgur.com/7l8EcWL.gif" alt="" />
+    <img width="700px" src="https://i.imgur.com/aCBbkhK.gif" alt="" />
   </h3>
 </div>
 
