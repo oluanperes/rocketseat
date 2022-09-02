@@ -54,10 +54,10 @@ body,
 }
 
 #page {
-  display: flex;
-  flex-direction: column;
+  display: grid;
   justify-self: center;
   align-items: center;
+  align-content: center;
   gap: 4rem;
 }
 
@@ -230,7 +230,7 @@ button {
 
 @media (min-width: 700px) {
   #page {
-    flex-direction: row;
+    display: flex;
     gap: 19.2rem;
   }
 
