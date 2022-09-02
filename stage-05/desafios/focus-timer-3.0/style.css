@@ -136,6 +136,7 @@ button {
 .container-cards {
   grid-template-areas: "forest rain""coffeeshop fireplace";
   gap: 3.2rem;
+  justify-content: center;
 }
 
 .card-box {
@@ -170,11 +171,24 @@ button {
 .volume {
   all: var(--card-icon-color);
   width: 9rem;
-  height: .4rem;
+  height: .6rem;
   border-radius: .5rem;
   position: absolute;
   bottom: 2.5rem;
   left: 2.5rem;
+}
+
+.volume::-moz-range-track {
+  background-color: var(--card-icon-color);
+  height: .6rem;
+  border-radius: .5rem;
+}
+
+.volume::-moz-range-thumb {
+  background-color: var(--card-icon-color);
+  border-width: .4rem;
+  border-radius: 50%;
+  border-color: var(--card-icon-color);
 }
 
 .volume.select {
