@@ -186,7 +186,7 @@ button {
 
 .volume::-moz-range-thumb {
   background-color: var(--card-icon-color);
-  border-width: .4rem;
+  border-width: .3rem;
   border-radius: 50%;
   border-color: var(--card-icon-color);
 }
@@ -194,12 +194,20 @@ button {
 .volume.select {
   all: var(--card-select-icon);
   width: 9rem;
-  height: .4rem;
+  height: .6rem;
   border-radius: .5rem;
   position: absolute;
   bottom: 2.5rem;
   left: 2.5rem;
 }
+
+.volume.select::-moz-range-track, .volume.select::-moz-range-thumb {
+  background: #fff;
+}
+.volume.select::-moz-range-thumb {
+  border-color: #fff;
+}
+
 
 .theme {
   position: fixed;
