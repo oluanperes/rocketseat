@@ -49,14 +49,16 @@ body {
 }
 
 body,
-.container-cards,
-#page {
+.container-cards {
   display: grid;
 }
 
 #page {
+  display: flex;
+  flex-direction: column;
   justify-self: center;
   align-items: center;
+  gap: 4rem;
 }
 
 #timer,
@@ -133,7 +135,6 @@ button {
 /* card */
 .container-cards {
   grid-template-areas: "forest rain""coffeeshop fireplace";
-  justify-content: center;
   gap: 3.2rem;
 }
 
@@ -227,10 +228,9 @@ button {
   transition: transform .5s;
 }
 
-
 @media (min-width: 700px) {
   #page {
-    display: flex;
+    flex-direction: row;
     gap: 19.2rem;
   }
 
