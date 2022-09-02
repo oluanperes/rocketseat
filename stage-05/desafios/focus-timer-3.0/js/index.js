@@ -12,7 +12,8 @@ import {
 const control = Controls()
 const timer = Timer({
   minutesDisplay,
-  secondsDisplay
+  secondsDisplay,
+  resetControls: control.reset
 })
 
 const sound = Sounds()

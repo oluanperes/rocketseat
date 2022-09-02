@@ -39,7 +39,7 @@ export default function Controls() {
 
   function reset(buttonPlay, buttonStop) {
     buttonPlay.classList.remove('hide')
-    buttonStop.classList.remove('hide')
+    buttonStop.classList.add('hide')
   }
 
   return {

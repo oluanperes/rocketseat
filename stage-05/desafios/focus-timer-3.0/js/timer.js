@@ -1,10 +1,11 @@
-import Controls from "./controls.js"
 import Sounds from "./sounds.js"
 import { AlertError } from "./alert-error.js"
+import { buttonPlay, buttonStop } from "./elements.js"
 
 export default function Timer({
   minutesDisplay,
-  secondsDisplay
+  secondsDisplay,
+  resetControls
 }) {
   let minutes = Number(minutesDisplay.textContent)
   let timerTimeOut
@@ -26,6 +27,7 @@ export default function Timer({
       let seconds = Number(secondsDisplay.textContent)
 
       if(minutes <= 0 && seconds <= 0){
+        resetControls(buttonPlay, buttonStop)
         Sounds().kitchenTimerAudio()
         reset()
         return;
