@@ -13,7 +13,7 @@
   /* timer */
   --fc-timer: #323238;
   --ff-timer: 'Roboto', sans-serif;
-  --fs-timer: clamp(8rem, 8rem + 5vw, 12.6rem);
+  --fs-timer: 12.6rem;
   --lh-timer: 14.8rem;
 
   /* card content */
@@ -49,12 +49,12 @@ body {
 }
 
 body,
-.container-cards {
+.container-cards,
+#page {
   display: grid;
 }
 
 #page {
-  display: grid;
   justify-self: center;
   align-items: center;
   align-content: center;
@@ -97,7 +97,7 @@ button {
   display: flex;
   align-items: center;
   background-color: var(--bg-card);
-  width: clamp(10rem, 10rem + 3vw, 13.8rem);
+  width: 13.8rem;
   height: 4.8rem;
   border-radius: 9999px;
   position: relative;
@@ -110,7 +110,7 @@ button {
   display: flex;
   align-items: center;
   position: absolute;
-  gap: clamp(.2rem, .2rem + 1vw, 1.4rem);
+  gap: 1.4rem;
   color: var(--fc-text);
 }
 
@@ -168,7 +168,6 @@ button {
 
 /* slider */
 .volume {
-  all: unset;
   all: var(--card-icon-color);
   width: 9rem;
   height: .4rem;
@@ -179,7 +178,6 @@ button {
 }
 
 .volume.select {
-  all: unset;
   all: var(--card-select-icon);
   width: 9rem;
   height: .4rem;
@@ -191,9 +189,8 @@ button {
 
 .theme {
   position: fixed;
-  top: 1rem;
-  right: 1rem;
-
+  top: 1.5rem;
+  right: 1.5rem;
   cursor: pointer;
 }
 
@@ -228,7 +225,7 @@ button {
   transition: transform .5s;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 1024px) {
   #page {
     display: flex;
     gap: 19.2rem;
