@@ -1,4 +1,4 @@
-const path = requery("path");
+const path = require("path");
 
 module.exports = {
 
@@ -7,6 +7,9 @@ module.exports = {
     connection: {
       filename: path.resolve(__dirname, "src", "database", "database.db")
     },
+    migrations: {
+      directory: path.resolve(__dirname, "src", "database", "knex", "migrations")
+    },
     useNullAsDefault: true
-  }
+  },
 };
