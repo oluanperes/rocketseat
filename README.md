@@ -13,12 +13,12 @@ Segue a relação dos módulos e neles os projetos:
   - Stage 05 - [Avançando no JavaScript - Introdução a DOM](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-05)
   - Stage 06 - [Single Page Application (SPA)](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-06)
   - Stage 07 - [Git & Github](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-07)
-
-- Habilidades em desenvolvimento...
   - Stage 08 - [Backend - NodeJS e Express](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-08)
+  - 
+- Habilidades em desenvolvimento...
+  - Stage 09 - [Frontend - ReactJS](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-09)
 
 - Em breve...
-  - Stage 09 - [Frontend - ReactJS](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-09)
   - Stage 10 - [API - Restful](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-10)
 
 ## 🤔 Feedback
@@ -28,11 +28,11 @@ Segue a relação dos módulos e neles os projetos:
 
 ## 🧠 Habilidades
 
-  **Desenvolvidas:** JavaScript, HTML, CSS
+  **Desenvolvidas:** JavaScript, HTML, CSS, NodeJS
 
-  **Em construção:** NodeJS e Express
+  **Em construção:** ReactJS
 
-  **Em breve:** ReactJS, API Restful, deploy e testes automatizados.
+  **Em breve:** API Restful, deploy e testes automatizados.
 
 <div>
   <h2>📫 Contatos</h2>
