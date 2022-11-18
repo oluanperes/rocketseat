@@ -14,7 +14,7 @@ Segue a relação dos módulos e neles os projetos:
   - Stage 06 - [Single Page Application (SPA)](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-06)
   - Stage 07 - [Git & Github](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-07)
   - Stage 08 - [Backend - NodeJS e Express](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-08)
-  - 
+
 - Habilidades em desenvolvimento...
   - Stage 09 - [Frontend - ReactJS](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-09)
 
