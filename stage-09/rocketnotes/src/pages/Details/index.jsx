@@ -16,7 +16,12 @@ export function Details() {
 
           <h1>Introdução ao React</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, beatae distinctio. Consequatur esse iste mollitia fugit tenetur veniam perspiciatis veritatis alias, eum error cupiditate, molestiae ex culpa ipsa nulla! Reiciendis!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, beatae distinctio. Consequatur esse iste mollitia fugit tenetur veniam perspiciatis veritatis alias, eum error cupiditate, molestiae ex culpa ipsa nulla! Reiciendis!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, beatae distinctio. Consequatur esse iste mollitia fugit tenetur veniam perspiciatis veritatis alias, eum error cupiditate, molestiae ex culpa ipsa nulla! Reiciendis!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, beatae distinctio. Consequatur esse iste mollitia fugit tenetur veniam perspiciatis veritatis alias, eum error cupiditate, molestiae ex culpa ipsa nulla! Reiciendis!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, beatae distinctio. Consequatur esse iste mollitia fugit tenetur veniam perspiciatis veritatis alias, eum error cupiditate, molestiae ex culpa ipsa nulla! Reiciendis!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, beatae distinctio. Consequatur esse iste mollitia fugit tenetur veniam perspiciatis veritatis alias, eum error cupiditate, molestiae ex culpa ipsa nulla! Reiciendis!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, beatae distinctio. Consequatur esse iste mollitia fugit tenetur veniam perspiciatis veritatis alias, eum error cupiditate, molestiae ex culpa ipsa nulla! Reiciendis!
           </p>
           <Section title="Links úteis">
             <Links>

@@ -15,7 +15,7 @@ export function Header() {
           <strong>Luan Peres</strong>
         </div>
       </Profile>
-      
+
       <Logout>
         <RiShutDownLine />
       </Logout>
