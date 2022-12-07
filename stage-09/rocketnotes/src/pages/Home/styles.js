@@ -17,6 +17,7 @@ export const Container = styled.div`
   background-color: ${({theme}) => theme.COLORS.BACKGROUND_800};
 
 `;
+
 export const Brand = styled.div`
   grid-area: brand;
   
@@ -45,17 +46,19 @@ export const Menu = styled.ul`
     margin-bottom: 24px;
     list-style: none;
   }
-
-
-  
 `;
+
 export const Search = styled.div`
   grid-area: search;
   padding: 64px 64px 0;
 `;
+
 export const Content = styled.div`
   grid-area: content;
+  padding: 0 64px ;
+  overflow-y: auto;
 `;
+
 export const NewNote = styled.button`
   grid-area: newnote;
 
