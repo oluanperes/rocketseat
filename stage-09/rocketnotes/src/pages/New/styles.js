@@ -8,8 +8,13 @@ export const Container = styled.div`
   grid-template-rows: 105px auto;
   grid-template-areas: 
   "header"
-  "content"
-  ;
+  "content";
+
+  .tags {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
 `;
 
 export const Form = styled.form`
@@ -23,9 +28,9 @@ export const Form = styled.form`
 
     margin-bottom: 36px;
 
-  a {
-    font-size: 20px;
-    color: ${({theme}) => theme.COLORS.GRAY_100};
-  }
+    a {
+      font-size: 20px;
+      color: ${({ theme }) => theme.COLORS.GRAY_100};
+    }
   }
 `;
