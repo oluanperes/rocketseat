@@ -4,15 +4,15 @@
 
 ## 👩‍💻 Projetos 
 
-  - Stage 02 - [Introdução ao HTML e CSS](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-02)
-  - Stage 03 - [Avançando no HTML e CSS](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-03)
-  - Stage 04 - [Introdução ao JavaScript](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-04)
-  - Stage 05 - [Avançando no JavaScript - Introdução a DOM](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-05)
-  - Stage 06 - [Single Page Application (SPA)](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-06)
-  - Stage 07 - [Git & Github](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-07)
-  - Stage 08 - [Backend - NodeJS e Express](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-08)
-  - Stage 09 - [Frontend - ReactJS](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-09)
-  - Stage 10 - [API - Restful](https://github.com/oluanperes/explorer-rocketseat/tree/main/stage-10)
+  - Stage 02 - [Introdução ao HTML e CSS](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-02)
+  - Stage 03 - [Avançando no HTML e CSS](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-03)
+  - Stage 04 - [Introdução ao JavaScript](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-04)
+  - Stage 05 - [Avançando no JavaScript - Introdução a DOM](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-05)
+  - Stage 06 - [Single Page Application (SPA)](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-06)
+  - Stage 07 - [Git & Github](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-07)
+  - Stage 08 - [Backend - NodeJS e Express](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-08)
+  - Stage 09 - [Frontend - ReactJS](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-09)
+  - Stage 10 - [API - Restful](https://github.com/oluanperes/rocketseat/explorer/tree/main/stage-10)
 
 ## 🧠 Habilidades desenvolvidas
   
