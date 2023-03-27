@@ -2,10 +2,8 @@ import { GithubUser } from "./GithubUser.js"
 
 export class Favorites {
   constructor(root) {
-    this.root = document.querySelector(root)
-   
+    this.root = document.querySelector(root) 
     this.load()
-
   }
 
   load() {
@@ -27,7 +25,7 @@ export class Favorites {
       const user = await GithubUser.search(username)
   
       if(user.login === undefined) {
-        throw new Error('Usupario não encontrado!')
+        throw new Error('Usuário não encontrado!')
       }
 
       this.entries = [user, ...this.entries]
@@ -53,19 +51,27 @@ export class FavoritesView extends Favorites {
     super(root)
 
     this.tbody = this.root.querySelector('table tbody')
-    
     this.update()
     this.onadd()
   }
 
   onadd() {
     const addButton = this.root.querySelector('.search button')
+    
+    window.document.onkeyup = event => {
+      if(event.key === "Enter"){ 
+        const { value } = this.root.querySelector('.search input')
+        this.add(value)
+
+        console.log("enter")
+      }
+    };
+
     addButton.onclick = () => {
       const { value } = this.root.querySelector('.search input')
-
       this.add(value)
     }
-  }
+  };
 
   update() {
     this.removeAllTr()
