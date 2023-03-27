@@ -10,9 +10,9 @@
   <h2> Projetos</h2>
   <p align="center"> Clique e veja o resultado
     <br>
-    <a href="https://oluanperes.github.io/explorer-rocketseat/stage-02/projeto-01/index.html" target="_blank"> Projeto 01 </a> -
-    <a href="https://oluanperes.github.io/explorer-rocketseat/stage-02/projeto-02/index.html" target="_blank"> Projeto 02 </a> -
-    <a href="https://oluanperes.github.io/explorer-rocketseat/stage-02/projeto-03/index.html" target="_blank"> Projeto 03 </a>
+    <a href="https://oluanperes.github.io/rocketseat/explorer/stage-02/projeto-01/index.html" target="_blank"> Projeto 01 </a> -
+    <a href="https://oluanperes.github.io/rocketseat/explorer/stage-02/projeto-02/index.html" target="_blank"> Projeto 02 </a> -
+    <a href="https://oluanperes.github.io/rocketseat/explorer/stage-02/projeto-03/index.html" target="_blank"> Projeto 03 </a>
   </p>
   <h3 align="center">
     <img width="700px" src="https://i.imgur.com/auc8WIs.gif" alt="Projetos do stage 02 do programa explorer da rocketseat." />
