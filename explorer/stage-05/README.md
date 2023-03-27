@@ -19,9 +19,9 @@
   <h2> Projetos</h2>
   <p align="center"> Clique e veja o resultado
     <br>
-    <a href="https://oluanperes.github.io/explorer-rocketseat/stage-05/jogo-da-adivinhacao/index.html" target="_blank"> Jogo da adivinhação </a> -
-    <a href="https://oluanperes.github.io/explorer-rocketseat/stage-05/imc/index.html" target="_blank"> Cálculo IMC </a> -
-    <a href="https://oluanperes.github.io/explorer-rocketseat/stage-05/focustimer/index.html" target="_blank"> Focustimer </a>
+    <a href="https://oluanperes.github.io/rocketseat/explorer/stage-05/jogo-da-adivinhacao/index.html" target="_blank"> Jogo da adivinhação </a> -
+    <a href="https://oluanperes.github.io/rocketseat/explorer/stage-05/imc/index.html" target="_blank"> Cálculo IMC </a> -
+    <a href="https://oluanperes.github.io/rocketseat/explorer/stage-05/focustimer/index.html" target="_blank"> Focustimer </a>
   </p>
   <h3 align="center">
     <img width="700px" src="https://i.imgur.com/fth2uaj.gif" alt="" />
