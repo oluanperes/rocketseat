@@ -10,15 +10,12 @@ export const Container = styled.div`
 `;
 
 export const Form = styled.form`
-  padding: 0 136px;
-
+  padding: 0 146px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-
-  text-align: center;
-
+  align-items: left;
+  
   > h1 {
     font-size: 48px;
     color: ${({ theme }) => theme.COLORS.PINK};
@@ -37,6 +34,10 @@ export const Form = styled.form`
   > a {
     margin-top: 124px;
     color: ${({theme}) => theme.COLORS.PINK};
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
   }
 `;
 

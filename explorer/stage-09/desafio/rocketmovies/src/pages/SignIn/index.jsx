@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { FiLock, FiMail } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 import { Input } from '../../components/Input';
@@ -21,7 +20,7 @@ export function SignIn() {
           icon={FiMail}
         />
         <Input
-          placeholder="E-Senha"
+          placeholder="Senha"
           type="password"
           icon={FiLock}
         />

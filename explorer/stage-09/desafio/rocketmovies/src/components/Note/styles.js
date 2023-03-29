@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const Container = styled.button`
   width: 100%;
-  background-color: ${({ theme }) => theme.COLORS.BACKGROUND_700};
+  height: 222px;
+  background: rgba(255, 133, 155, 0.05);
 
   border: none;
   border-radius: 10px;
@@ -21,6 +22,19 @@ export const Container = styled.button`
     width: 100%;
     display: flex;
     margin-top: 24px;
+  }
+
+  .description {
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    
+    margin: 15px 0 ;
+    
+    p {
+      text-align: justify;
+      color: ${({theme}) => theme.COLORS.GRAY_300};
+    }
   }
 
 `;

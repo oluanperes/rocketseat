@@ -1,24 +1,28 @@
-import { RiShutDownLine } from 'react-icons/ri';
-import { Container, Profile, Logout } from "./styles";
+import { Container, Brand, ContainerProfile, Profile } from "./styles";
+import { Input } from '../../components/Input';
 
 export function Header() {
   return (
     <Container>
-      <Profile to="/profile">
-        <img 
-          src="https://github.com/oluanperes.png" 
-          alt="Foto do usuário"
-        />
+      <Brand>
+        <h1>RocketMovies</h1>
+      </Brand>
+
+      <Input placeholder="Pesquisar pelo tiíulo" />
+
+      <ContainerProfile>
 
         <div>
-          <span>Bem-vindo,</span>
           <strong>Luan Peres</strong>
+          <a>sair</a>
         </div>
-      </Profile>
-
-      <Logout>
-        <RiShutDownLine />
-      </Logout>
+        <Profile to="/profile">
+          <img
+            src="https://github.com/oluanperes.png"
+            alt="Foto do usuário"
+          />
+        </Profile>
+      </ContainerProfile>
     </Container>
   );
 }
