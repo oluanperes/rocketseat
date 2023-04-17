@@ -10,6 +10,7 @@ export function Profile() {
       <header>
         <Link to="/">
           <FiArrowLeft />
+          Voltar
         </Link>
       </header>
 
@@ -52,7 +53,7 @@ export function Profile() {
           icon={FiLock}
         />
 
-        <Button title="Salvar" />
+        <Button title="Salvar" disabled/>
 
       </Form>
 

@@ -1,13 +1,18 @@
 import { Container } from './styles';
 import { Tag } from '../../components/Tag';
+import { Rating } from '../Rating';
 
 export function Note({ data, ...rest }) {
   return (
     <Container {...rest}>
-      <h1>{data.title}</h1>
+      <h2>{data.title}</h2>
+
+      <Rating grade={data.rating} isBigSize={false} />
 
       <div className='description'>
-        <p>{data.description}</p>
+        <span className='text'>
+          {data.description}
+        </span>
       </div>
 
       {
