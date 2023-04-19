@@ -6,6 +6,7 @@ import { NoteItem } from '../../components/NoteItem';
 import { Section } from '../../components/Section';
 
 import { Container, Form } from './styles';
+import { Button } from '../../components/Button';
 
 export function New() {
   return (
@@ -32,6 +33,7 @@ export function New() {
               <NoteItem isNew placeholder="Nova tag" />
             </div>
           </Section>
+          <Button title={"Salvar"}/>
         </Form>
       </main>
     </Container>

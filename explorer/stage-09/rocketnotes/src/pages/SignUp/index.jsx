@@ -1,7 +1,4 @@
 import { Link } from 'react-router-dom';
-
-import { api } from '../../services/api';
-
 import { FiLock, FiMail, FiUser } from 'react-icons/fi';
 import { Input } from '../../components/Input';
 import { Button } from '../../components/Button';
@@ -22,19 +19,16 @@ export function SignUp() {
           placeholder="Nome"
           type="text"
           icon={FiUser}
-          onChange={e => setName(e.target.value)}
         />
         <Input
           placeholder="E-mail"
           type="text"
           icon={FiMail}
-          onChange={e => setEmail(e.target.value)}
         />
         <Input
           placeholder="Senha"
           type="password"
           icon={FiLock}
-          onChange={e => setPassword(e.target.value)}
         />
 
         <Button title="Cadastrar" />
@@ -46,5 +40,4 @@ export function SignUp() {
 
     </Container>
   );
-
 }
