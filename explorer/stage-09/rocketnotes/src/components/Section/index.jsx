@@ -1,4 +1,4 @@
-import { Container } from './styles';
+import { Container } from "./styles";
 
 export function Section({ title, children }) {
   return (
@@ -6,6 +6,6 @@ export function Section({ title, children }) {
       <h2>{title}</h2>
       {children}
     </Container>
-    
-  );
+  )
+
 }

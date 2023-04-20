@@ -1,21 +1,17 @@
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
-export const Container = styled.header`
+export const Container = styled.div`
   grid-area: header;
 
-  height: 105px;
   width: 100%;
+  height: 105px;
 
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: ${({ theme }) => theme.COLORS.BACKGROUND_700};
+  border-bottom: 1px solid ${({ theme }) => theme.COLORS.BACKGROUND_700};
 
   display: flex;
   justify-content: space-between;
-
   padding: 0 80px;
-
 `;
 
 export const Profile = styled(Link)`
@@ -23,7 +19,7 @@ export const Profile = styled(Link)`
   align-items: center;
 
   > img {
-    width: 56px;
+    width: 55px;
     height: 56px;
     border-radius: 50%;
   }
@@ -36,12 +32,12 @@ export const Profile = styled(Link)`
 
     span {
       font-size: 14px;
-      color: ${({theme}) => theme.COLORS.GRAY_100};
+      color: ${({ theme }) => theme.COLORS.GRAY_100};
     }
 
     strong {
       font-size: 18px;
-      color: ${({theme}) => theme.COLORS.WHITE};
+      color: ${({ theme }) => theme.COLORS.WHITE};
     }
   }
 `;
@@ -51,7 +47,7 @@ export const Logout = styled.button`
   background: none;
 
   > svg {
-    color: ${({ theme }) => theme. COLORS.GRAY_100};
+    color: ${({ theme }) => theme.COLORS.GRAY_100};
     font-size: 36px;
   }
 `;

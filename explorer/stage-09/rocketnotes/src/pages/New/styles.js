@@ -7,10 +7,11 @@ export const Container = styled.div`
   display: grid;
   grid-template-rows: 105px auto;
   grid-template-areas: 
-  "header"
-  "content";
+    "header"
+    "content"
+  ;
 
-  main {
+  > main {
     grid-area: content;
     overflow-y: auto;
   }
@@ -23,7 +24,7 @@ export const Container = styled.div`
 `;
 
 export const Form = styled.form`
-  max-width: 550px;
+  width: 550px;
   margin: 38px auto;
 
   > header {
@@ -35,7 +36,7 @@ export const Form = styled.form`
 
     a {
       font-size: 20px;
-      color: ${({ theme }) => theme.COLORS.GRAY_100};
+      color: ${({theme}) => theme.COLORS.GRAY_100};
     }
   }
 `;

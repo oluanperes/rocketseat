@@ -10,7 +10,8 @@ export const Container = styled.div`
     background: ${({ theme }) => theme.COLORS.BACKGROUND_900};
     display: flex;
     align-items: center;
-    padding: 0 24px;
+
+    padding: 0 124px;
 
     svg {
       color: ${({ theme }) => theme.COLORS.GRAY_100};
@@ -21,31 +22,30 @@ export const Container = styled.div`
 
 export const Form = styled.form`
   max-width: 340px;
-  margin: 30px auto 0;
+  margin: -100px auto 0;
 
   > div:nth-child(4) {
     margin-top: 24px;
   }
+
 `;
 
 export const Avatar = styled.div`
   position: relative;
-  margin: -124px auto 32px;
-
+  margin: 0 auto 32px;
   width: 186px;
   height: 186px;
 
   > img {
     width: 186px;
-    height: 186px;
+    height: 186px;  
     border-radius: 50%;
   }
 
   > label {
     width: 48px;
     height: 48px;
-
-    background-color: ${({theme}) => theme.COLORS.ORANGE};
+    background-color: ${({ theme }) => theme.COLORS.ORANGE};
     border-radius: 50%;
 
     display: flex;
@@ -55,7 +55,6 @@ export const Avatar = styled.div`
     position: absolute;
     bottom: 7px;
     right: 7px;
-
     cursor: pointer;
 
     input {
@@ -65,8 +64,7 @@ export const Avatar = styled.div`
     svg {
       width: 20px;
       height: 20px;
-
-      color: ${({theme}) => theme.COLORS.BACKGROUND_800};
+      color: ${({ theme }) => theme.COLORS.BACKGROUND_800};
     }
   }
 `;

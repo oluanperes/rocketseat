@@ -1,12 +1,11 @@
-import { Link } from 'react-router-dom';
-import { Header } from '../../components/Header';
-import { Input } from '../../components/Input';
-import { Textarea } from '../../components/Textarea';
-import { NoteItem } from '../../components/NoteItem';
-import { Section } from '../../components/Section';
-
-import { Container, Form } from './styles';
-import { Button } from '../../components/Button';
+import { Header } from "../../components/Header";
+import { Container, Form } from "./styles";
+import { Input } from "../../components/Input";
+import { TextArea } from "../../components/TextArea";
+import { NoteItem } from "../../components/NoteItem";
+import { Section } from "../../components/Section";
+import { Button } from "../../components/Button";
+import { Link } from "react-router-dom";
 
 export function New() {
   return (
@@ -16,26 +15,27 @@ export function New() {
         <Form>
           <header>
             <h1>Criar nota</h1>
-            <Link to="/">voltar</Link>
+            <Link to="/">Voltar</Link>
           </header>
 
-          <Input placeholder="Titulo" />
-          <Textarea placeholder="Observações" />
+          <Input placeholder="Título" />
+          <TextArea placeholder="Obersações" />
 
           <Section title="Links úteis">
-            <NoteItem value="https://rocketseat.com.br" />
-            <NoteItem isNew placeholder='Novo link' />
+            <NoteItem value="https://www.rocketseat.com.br/" />
+            <NoteItem isNew placeholder="Novo link" />
           </Section>
 
           <Section title="Marcadores">
             <div className="tags">
-              <NoteItem value="React" />
+              <NoteItem value="react" />
               <NoteItem isNew placeholder="Nova tag" />
             </div>
           </Section>
-          <Button title={"Salvar"}/>
+
+          <Button title="Salvar" />
         </Form>
       </main>
     </Container>
-  );
+  )
 }

@@ -1,9 +1,8 @@
 import styled from "styled-components";
-import backgroundImg from '../../assets/background.jpg';
+import backgroundIMG from "../../assets/background.jpg"
 
 export const Container = styled.div`
   height: 100vh;
-
   display: flex;
   align-items: stretch;
 
@@ -21,28 +20,28 @@ export const Form = styled.form`
 
   > h1 {
     font-size: 48px;
-    color: ${({ theme }) => theme.COLORS.ORANGE};
+    color: ${({theme}) => theme.COLORS.ORANGE};
   }
 
   > h2 {
     font-size: 24px;
-    margin: 48px 0;
+    margin: 48px;
   }
 
   > p {
     font-size: 14px;
-    color: ${({ theme }) => theme.COLORS.GRAY_100};
+    color: ${({theme}) => theme.COLORS.GRAY_100};
   }
 
   > a {
     margin-top: 124px;
     color: ${({theme}) => theme.COLORS.ORANGE};
   }
+
 `;
 
 export const Background = styled.div`
   flex: 1;
-  background: url(${backgroundImg}) no-repeat center center;
+  background: url(${backgroundIMG}) no-repeat center;
   background-size: cover;
-
 `;
